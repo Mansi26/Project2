@@ -1,0 +1,14 @@
+0||Indenture||49754||2015-02-25||DineEquity, Inc
+COMPUTATION OF RATIOS
+
+
+
+	
+		
+		
+		DIN-12.31.2014-10K-Ex 12.1
+	
+	
+ Exhibit 12.1 DINEEQUITY, INC. Computation of Leverage Ratio and Debt Service Coverage Ratio for the Trailing Twelve Months Ended December 31, 2014 (In thousands, except ratios) Leverage Ratio Calculation: Indebtedness, net (1)   $   1,326,586 Covenant Adjusted EBITDA(1)   277,026 Leverage Ratio   4.8 Debt Service Coverage Ratio (DSCR) Calculation: Net Cash Flow (1)   $   277,987 Debt Service (1)   56,727 DSCR   4.9 (1)    Definitions of all components used in calculating the above ratios are found in the Base Indenture and the related Series 2014-1 Supplement to the Base Indenture, dated September 30, 2014, filed as Exhibits 4.1 and 4.2, respectively, to our Current Report on Form 8-K filed on October 3, 2014.	
+
+

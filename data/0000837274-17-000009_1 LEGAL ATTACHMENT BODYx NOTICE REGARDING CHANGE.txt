@@ -1,0 +1,153 @@
+0||CorporateActions||837274||2017-03-01||FRANKLIN TEMPLETON VARIABLE INSURANCE PRODUCTS TRUST
+LEGAL ATTACHMENT
+
+NAME OF REGISTRANT
+Franklin Templeton Variable Insurance Products Trust
+File No. 811-05583
+
+EXHIBIT ITEM No. 77D (g): Policies with respect to security
+investments
+
+From Prospectus Supplement VIP P1 P2 P4 07/16:
+
+SUPPLEMENT DATED JULY 18, 2016
+TO THE PROSPECTUSES DATED MAY 1, 2016
+OF
+FRANKLIN SMALL CAP VALUE VIP FUND
+ (Series of Franklin Templeton Variable Insurance Products Trust)
+
+
+IMPORTANT NOTICE REGARDING CHANGE IN INVESTMENT POLICY
+
+
+The prospectus of Franklin Small Cap Value VIP Fund is
+amended as follows:
+
+I.	The first paragraph under the ''FUND SUMMARIES'' - "Principal
+Investment Strategies" section, on page FSV-S1, is replaced with the
+following:
+
+Under normal market conditions, the Fund invests at least 80% of its
+net assets in investments of small-capitalization (small-cap)
+companies. Small-cap companies are companies with market
+capitalizations (the total market value of a company's
+outstanding stock) under $3.5 billion at the time of purchase.
+Effective September 30, 2016, the definition of small-cap companies
+will be revised to read as follows:  Small-cap companies are
+companies with market capitalizations (the total market value of
+a company's outstanding stock) not exceeding either: 1) the highest
+market capitalization in the Russell 2000 Index; or 2) the 12-month
+average of the highest market capitalization in the Russell 2000
+Index, whichever is greater, at the time of purchase. As of
+May 31, 2016, the highest market capitalization in the Russell
+2000 Index was $5.96 billion.
+
+II.	Effective September 30, 2016, the first paragraph under
+the "FUND DETAILS" - "Principal Investment Policies and Practices"
+section on page FSV D-1 is replaced with the following:
+
+Under normal market conditions, the Fund invests at least 80% of its
+net assets in investments of small-capitalization (small-cap)
+companies. Shareholders will be given at least 60 days' advance
+notice of any change to this 80% policy. Small-cap companies are
+companies with market capitalizations (the total market value of a
+company's outstanding stock) under $3.5 billion at the time of
+purchase. Effective September 30, 2016, the definition of small-cap
+companies will be revised to read as follows: Under normal market
+conditions, the Fund invests at least 80% of its net assets in
+investments of small-capitalization (small-cap) companies. Small-cap
+companies are companies with market capitalizations (the total market
+value of a company's outstanding stock) not exceeding either:  1) the
+highest market capitalization in the Russell 2000 Index; or 2)
+the 12-month average of the highest market capitalization in the
+Russell 2000 Index, whichever is greater, at the time of purchase.
+As of May 31, 2016, the highest market capitalization in the
+Russell 2000 Index was $5.96 billion.
+
+
+
+From Prospectus Supplement FSI 3 P1 P2 P4 10/16:
+
+
+SUPPLEMENT DATED OCTOBER 26, 2016
+TO THE PROSPECTUSES DATED MAY 1, 2016
+OF
+FRANKLIN STRATEGIC INCOME VIP FUND
+(A series of Franklin Templeton Variable Insurance Products Trust)
+
+
+The Prospectus is amended as follows:
+
+I.	 The fourth full paragraph on page FSI-D2 in
+the "Fund Details - Principal Investment Policies and Practices"
+section is replaced with:
+
+For purposes of pursuing its investment goals, the Fund regularly
+enters into currency-related transactions involving derivative
+instruments, including currency and cross currency forwards,
+currency swaps, currency and currency index futures contracts,
+and currency options. The Fund may also enter into interest rate
+and credit-related transactions involving certain derivative
+instruments, including interest rate, credit default and fixed
+income total return swaps and interest rate and/or bond futures
+contracts (including UxxPDSxxPD Treasury futures contracts) and options
+thereon, as well as inflation index swaps and options on fixed
+income exchange traded funds. The use of such derivative
+transactions may allow the Fund to obtain net long or net short
+exposures to selected currencies, interest rates, countries,
+durations or credit risks. The Fund may use currency, interest
+rate or credit-related derivative strategies for the purposes
+of enhancing Fund returns, increasing liquidity, gaining exposure
+to particular instruments in more efficient or less expensive ways
+and/or hedging risks relating to other portfolio holdings or
+changes in currency exchange rates, credit risks, interest rates
+and other market factors.
+
+
+From Statement of Additional Information Supplement VIP SAI 6 10/16:
+
+SUPPLEMENT DATED OCTOBER 26, 2016
+TO THE STATEMENT OF ADDITIONAL INFORMATION
+DATED MAY 1, 2016
+ OF
+ FRANKLIN STRATEGIC INCOME VIP FUND
+(A series of Franklin Templeton Variable Insurance Products Trust)
+
+
+The Statement of Additional Information is amended as follows:
+
+I.      	The fourteenth through twenty-first bullets
+in "The Funds - Goals, Additional Strategies and     Risks -
+Franklin Strategic Income VIP Fund" section are replaced with
+the following:	buy and sell put and call options on currencies	engage in interest rate swaps	buy interest rate/bond futures	buy and sell put and call options on interest rate/bond futures	buy and sell put and call options on interest rate swaps and
+single name and index credit default swaps (swaptions)	buy and sell single name and index credit default swaps	engage in inflation index swaps	engage in fixed income total return swaps	buy and sell options on fixed income total return swaps	invest in fixed income ETFs and buy and sell put and call
+options thereon
+
+II.      	The following is added to "The Funds - Goals, Additional
+Strategies and Risks - Glossary of Investments, Techniques,
+Strategies and Their Risks - Derivative Instruments - Options
+on swap agreements" section (which begins on page 33):
+
+An option on a total return swap is a contract that gives the buyer
+the right (but not the obligation), in return for payment of a
+premium to the option seller, to enter into a new total return
+swap on a reference asset at a predetermined spread on a future date.
+This spread is the price at which the contract is
+executed (the option strike price).  Similar to a payer option
+on a credit default swap, in a payer option on a total return swap,
+the option buyer pays a premium to the option seller for the right,
+but not the obligation, to sell the return on a reference asset or
+index at a predetermined spread on a future date in return for a
+regular payment. Similar to a receiver option on a credit default
+swap, in a receiver option on a total return swap the option buyer
+pays a premium for the right, but not the obligation to receive the
+total return of the reference asset or index in return for a regular
+payment.  Depending on the movement of market spreads with respect
+to the particular referenced asset or index between the time of
+purchase and expiration of the option, the value of the underlying
+total return swap and therefore the value of the option will change.
+Options on total return swaps currently are traded OTC and the
+specific terms of each option on a total return swap are negotiated
+directly with the counterparty.
+
+

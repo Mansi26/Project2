@@ -1,0 +1,25 @@
+0||CorporateActions||707549||2017-03-10||LAM RESEARCH CORP
+NOTICE OF ADJ TO THE CONVERSION RATE FOR THE SR. CONVERTIBLE NOTES DUE 2041
+
+
+
+	
+		
+		
+		Exhibit
+	
+	
+
+
+
+ NOTICE TO HOLDERS OF ANY AND ALL OUTSTANDING 2.625% SENIOR CONVERTIBLE NOTES DUE 2041 OF NOVELLUS SYSTEMS, INC. WITH CUSIP NUMBER 670008 AD3 Pursuant to Section 8.03(l) of the Indenture, dated as of May 10, 2011 (the "Indenture") between Novellus Systems, Inc., a California corporation, as Issuer (the "Company"), and The Bank of New York Mellon Trust Company, NxxPDAxxPD, as Trustee (the "Trustee"), as supplemented by the First Supplemental Indenture, dated as of June 4, 2012 among the Company, as Issuer, Lam Research Corporation, a Delaware corporation, as Guarantor ("Parent"), and the Trustee, governing the issuance of the 2.625% Senior Convertible Notes due 2041 of the Company with CUSIP number 670008 AD3 (the "Notes"), the Company is hereby delivering this notice to all holders of the Notes. This notice is being given to inform you of an adjustment to the Conversion Rate (as defined in the Indenture). As previously announced, the Parent's board of directors has declared a quarterly cash dividend payment of $0.45 per share on the Parent's common stock. Section 8.03(d) of the Indenture provides for an increase in the Conversion Rate (as defined in the Indenture) in connection with this dividend. The Conversion Rate relating to the Notes, previously equal to 29.5403 shares of Common Stock per $1,000 principal amount of Notes, was increased to 29.6528 shares of Common Stock per $1,000 principal amount of Notes in accordance with Section 8.03(d) of the Indenture as a result of the upcoming payment by the Parent of the cash dividend scheduled for March 29, 2017. The adjustment to the Conversion Rate was effective immediately after 9:00 axxPDmxxPD, New York City time, on March 6, 2017, the ex-dividend date for the dividend. The adjustment to the Conversion Rate was calculated in accordance with Section 8.03(d), as set forth on Schedule 1. If the dividend is not paid, the Conversion Rate shall be decreased, effective as of the date the Parent's board of directors determines not to pay such dividend, to the Conversion Rate that would then be in effect if such dividend had not been declared. If you have any questions, please contact Investor Relations at (510) 572-0200. Very truly yours, LAM RESEARCH CORPORATION By:  /s/Douglas R. Bettinger Name:    Douglas R. Bettinger Title:    Executive Vice President and Chief Financial Officer
+
+
+
+ Dated: March 10, 2017 Schedule 1 Conversion Rate Formula Adjustment per Section 8.03(d) CR1= CR0 x ((SP0) / (SP0 - C)) CR0 = the Conversion Rate in effect immediately prior to the open of business on the Ex-Dividend Date for such dividend or distribution; CR1= the Conversion Rate in effect immediately after the open of business on the Ex-Dividend Date for such dividend or distribution; SP0= the Last Reported Sale Price of the Common Stock on the Trading Day immediately preceding the Ex-Dividend Date for such dividend or distribution; and C = the amount in cash per share the Parent distributes to holders of its Common Stock. CR0= 29.5403 CR1= 29.6528 SP0 = $118.62 C = $0.45 29.6528 = 29.5403 x (($118.62) / ($118.62-$0.45))
+
+
+
+	
+
+

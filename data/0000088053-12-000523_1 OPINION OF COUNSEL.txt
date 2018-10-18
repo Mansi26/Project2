@@ -1,0 +1,660 @@
+0||Opinions||862157||2012-05-10||DWS INSTITUTIONAL FUNDS
+OPINION OF COUNSEL
+
+
+
+    ex12_inst.htm
+
+
+
+ Exhibit (12)
+
+
+
+ [ROPES & GRAY LETTERHEAD]
+
+
+
+ May 1, 2012
+
+
+
+   DWS S&P 500 Plus Fund  DWS Value Equity Trust  345 Park Avenue  New York, NY 10154   DWS S&P 500 Index Fund  DWS Institutional Funds  345 Park Avenue  New York, NY 10154 DWS Equity 500 Index Portfolio  345 Park Avenue  New York, NY 10154
+
+
+
+ Ladies and Gentlemen:
+
+
+
+ We have acted as counsel in connection with the Agreement and Plan of Reorganization (the "Agreement") dated as of November 18, 2011, by and among:  (i) DWS Value Equity Trust, a Massachusetts business trust ("Acquired Trust"), on behalf of one of its series, DWS S&P 500 Plus Fund ("Acquired Fund"); (ii) DWS Institutional Funds, a Massachusetts business trust ("Acquiring Trust"), on behalf of one of its series, DWS S&P 500 Index Fund ("Acquiring Fund"); (iii) DWS Equity 500 Index Portfolio, a New York trust (the "Portfolio," together with Acquired Fund and Acquiring Fund, the "Funds"); and (iv) for purposes of Section 11.2 of the Agreement, Deutsche Investment Management Americas Inc. ("DIMA").  Capitalized terms not defined herein are used herein as defined in the Agreement.
+
+
+
+ The Agreement describes a proposed reorganization (the "Reorganization") to occur as of the date of this letter, pursuant to which the following transactions will occur: (i) Acquired Fund will transfer all of its portfolio securities1 ("Acquired Fund Portfolio Securities") to the Portfolio in exchange solely for an interest in the Portfolio (the interest so issued to Acquired Fund, the "Portfolio Interest," and the transactions described in this clause (i), the "Drop-Down"), (ii) immediately thereafter, Acquiring Fund will acquire all of the assets of Acquired Fund, comprising the Portfolio Interest and all Acquired Fund's other assets (such latter assets, "Other
+
+
+
+    1 For this purpose, "portfolio securities" means all of Acquired Fund's assets that are "investment securities" within the meaning of Section 12(d)(1)(E) of the Investment Company Act of 1940, as amended.
+
+
+
+ - 1 -
+
+
+
+ ROPES & GRAY LLP
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ Assets"), in exchange solely for shares of beneficial interest in Acquiring Fund ("Acquiring Fund Shares") and the assumption by Acquiring Fund of all of the liabilities of Acquired Fund (the transactions described in this clause (ii), the "RIC Exchange"), and (iii) immediately thereafter, Acquired Fund will distribute the Acquiring Fund Shares received by Acquired Fund to its shareholders in complete liquidation and termination of Acquired Fund.  This opinion as to certain UxxPDSxxPD federal income tax consequences of the Reorganization is furnished to you pursuant to Section 10.5 of the Agreement.
+
+
+
+ Acquired Fund is a series of Acquired Trust, which is registered under the Investment Company Act of 1940, as amended (the "1940 Act"), as an open-end management investment company.  Shares of Acquired Fund are redeemable at net asset value at each shareholder's option.  Acquired Fund has elected to be a regulated investment company (a ''RIC'') for federal income tax purposes under Section 851 of the Internal Revenue Code of 1986, as amended (the "Code").2
+
+
+
+ Acquiring Fund is a series of Acquiring Trust, which is registered under the 1940 Act as an open-end management investment company.  Shares of Acquiring Fund are redeemable at net asset value at each shareholder's option.  Acquiring Fund has elected to be a RIC for federal income tax purposes under Section 851 of the Code.  Acquiring Fund operates as a "feeder fund" that invests substantially all of its assets in the Portfolio, which invests directly in portfolio securities.  The Portfolio is registered under the 1940 Act as an open-end management investment company and is and will continue to be treated as a partnership for federal income tax purposes.
+
+
+
+            For purposes of this opinion, we have considered the Agreement, the Combined Proxy Statement/Prospectus dated March 7, 2012, and such other items as we have deemed necessary to render this opinion.  In addition, each Fund has provided us with a letter dated as of the date hereof (collectively, the "Representation Letters") representing as to certain facts, occurrences and information upon which each Fund has indicated that we may rely in rendering this opinion (whether or not contained or reflected in the documents and items referred to above).
+
+
+
+ In reviewing the foregoing materials, we have assumed, with your permission, the authenticity of original documents, the accuracy of copies, the genuineness of signatures, the legal capacity of signatories, and the proper execution of documents.  We have further assumed that (i) all parties to the Agreement and any other documents examined by us have acted, and will act, in accordance with the terms of such Agreement and documents, and that the
+
+
+
+    2 Unless otherwise stated, all section references herein are to the Code, and references to regulations, to the Treasury Regulations as in effect on the date of this opinion.
+
+
+
+ - 2 -
+
+
+
+ ROPES & GRAY LLP
+
+
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ Reorganization will be consummated pursuant to the terms and conditions set forth in the Agreement without the waiver or modification of any such terms and conditions; and (ii) all representations contained in the Agreement, as well as those representations contained in the Representation Letters, are true and complete.
+
+
+
+ The facts represented to us in the Representation Letters and our review of the foregoing materials support the conclusion that, based on the analysis and subject to the considerations set forth below, (i) the Drop-Down will qualify for tax-free treatment pursuant to Section 721 of the Code and (ii) the Reorganization should constitute a reorganization within the meaning of Section 368(a) of the Code, and Acquired Fund and Acquiring Fund, should each constitute a "party to a reorganization" within the meaning of Section 368(b) of the Code.  The Reorganization's consequences to Acquired Fund shareholders and the Funds are set forth more fully below.
+
+
+
+ Drop-Down
+
+
+
+ Nonrecognition of Gain or Loss
+
+
+
+ In our view, the Drop-Down will qualify as a tax-free contribution of property to a partnership by a partner within the meaning of Section 721(a) of the Code.  Pursuant to Section 721(a), no gain or loss is recognized by a partnership or any of its partners with respect to a contribution of property to such partnership in exchange for an interest in such partnership.  However, Section 721(b) provides that gain will be recognized "on a transfer of property to a partnership which would be treated as an investment company (within the meaning of section 351) if the partnership were incorporated."  The definition of an "investment company" for this purpose, and more generally the rules for application of this provision, are found in Treasury Regulations under Section 351 of the Code.3
+
+
+
+ Under Treas. Reg.  1.351-1(c)(1)(i), gain is not recognized on a transfer to a partnership under section 721(b) unless "the transfer results, directly or indirectly, in diversification of the transferors' interests."  Treas. Reg.  1.351-1(c)(6) provides: "a transfer of stocks and securities will not be treated as resulting in a diversification of the transferors' interests if each transferor transfers a diversified portfolio of stocks and securities."  In general, a portfolio of assets is so diversified if it satisfies the 25 and 50-percent tests of section 368(a)(2)(F) of the Code, as modified by Treas. Reg.  1.351-1(c) (the "Diversified Portfolio Test").
+
+
+
+    3  See General Explanation of the Tax Reform Act of 1976 (HxxPDRxxPD 1062, 94th Congress, Public Law 94-455) prepared by the Joint Committee on Taxation, December 29, 1976, at 657.
+
+
+
+ - 3 -
+
+
+
+ ROPES & GRAY LLP
+
+
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ Under the Diversified Portfolio Test, a portfolio of stocks and securities is diversified if "not more than 25 percent of the value of its total assets is invested in the stock and securities of any one issuer and not more than 50 percent of the value of its total assets is invested in the 'stock and securities' of 5 or fewer issuers."4  Acquired Fund has represented that the Acquired Fund Portfolio Securities constitute a diversified portfolio of assets within the meaning of Treas. Reg.  1.351-1(c)(6), and the Portfolio has represented that it expects to offer its interests continuously to Acquiring Fund and other feeder funds in exchange for cash, following the Reorganization.
+
+
+
+ As a result, under Section 721(a) of the Code, Acquired Fund will not recognize gain or loss upon the Drop-Down.
+
+
+
+ Basis and Holding Period Consequences
+
+
+
+ Given the foregoing treatment of the Drop-Down under Section 721(a), under Section 723 of the Code the Portfolio's basis in the Acquired Fund Portfolio Securities received in the Drop-Down will equal Acquired Fund's adjusted basis in such assets immediately prior to the Drop-Down.5,6   Under Section 1223(2) of the Code, the Portfolio's holding period in the Acquired Fund Portfolio Securities will include Acquired Fund's holding period in such assets.7
+
+
+
+    4 Section 368(a)(2)(F)(ii).  For this purpose cash and cash items (including receivables) and, to the extent provided in Treasury Regulations, assets acquired (through incurring of indebtedness or otherwise) for purposes of meeting (or failing to meet) the Diversified Portfolio Test are excluded in determining total assets.  Section 368(a)(2)(F)(iv).  The Code and regulations also set forth specific rules regarding the treatment of government securities and interests in certain RICs, REITs or investment companies for purposes of applying the Diversified Portfolio Test.  See Treas. Reg.  1.351-1(c)(6)(i) and Code  368(a)(2)(F)(ii).
+
+
+
+ 5 Section 723 states:  "The basis of property contributed to a partnership by a partner shall be the adjusted basis of such property to the contributing partner at the time of the contribution increased by the amount (if any) of gain recognized under section 721(b) to the contributing partner at such time."  As described above, no gain will be recognized under Section 721(b) upon the Drop-Down.
+
+
+
+ 6 Certain provisions in the Code potentially require adjustments to the basis of partnership assets with respect to a transferee of an interest in a partnership if the partnership's basis in its property exceeds by more than $250,000 the fair market value of such property and the transferee's basis in the partnership interest differs from the transferee's proportionate share of the inside basis of the partnership.  We have assumed with your permission that if, at the time of the Drop-Down and the transfer of the Portfolio Interest to Acquiring Fund, the Portfolio sold all its assets for their fair market value for cash, the amount of built-in gain or loss in the Acquired Fund Portfolio Securities at such time would be the only taxable gain or loss that would be allocated to Acquired Fund.  With this assumption, in this case there should be no difference between the transferee's basis in the partnership interest and the transferee's proportionate share of the inside basis of the partnership.
+
+
+
+ 7 Section 1223(2) provides that a taxpayer's holding period for property includes the period for which such property was held by another person if the taxpayer's basis in such property is the same in whole or in part as the basis in the
+
+
+
+ - 4 -
+
+
+
+ ROPES & GRAY LLP
+
+
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ Similarly, under Section 722 of the Code Acquired Fund's basis in the Portfolio Interest will include the sum of Acquired Fund's adjusted bases in the Acquired Fund Portfolio Securities immediately prior to the Drop-Down.8  In addition, under Section 752 of the Code, Acquired Fund's basis in the Portfolio Interest will include the Portfolio's liabilities allocated to Acquired Fund immediately after the Drop-Down.9  Under Section 1223(1) of the Code, Acquired Fund's holding period in the Portfolio Interest will include Acquired Fund's holding period in the Acquired Fund Portfolio Securities.10
+
+
+
+ A Note Regarding the Disguised Sale Rules
+
+
+
+ We note that, notwithstanding the above, if or to the extent the transfer of the Acquired Fund Portfolio Securities in connection with the Drop-Down were treated as a "disguised sale" under Section 707(a)(2)(B) of the Code, such transfer would be treated as a taxable sale or exchange of the Acquired Fund Portfolio Securities rather than a tax-free contribution of property under Section 721(a), with a correlative impact on the basis and holding period consequences discussed above.  As set forth further below, it is not possible to reach a conclusion on any disguised sale question wholly prospectively.
+
+
+
+ Section 707(a)(2)(B) potentially applies in lieu of Section 721(a) where a person transfers property to a partnership for which property the person receives or is deemed to receive cash or other consideration.  Pursuant to Treas. Reg.  1.707-3(b)(1), such a disguised sale occurs if,
+
+
+
+ hands of such other person.
+
+    8 Section 722 states:  "The basis of an interest in a partnership acquired by a contribution of property&#8230;to the partnership shall be &#8230;the adjusted basis of such property to the contributing partner at the time of the contribution increased by the amount (if any) of gain recognized under section 721(b) to the contributing partner at such time."
+
+
+
+ 9 Generally, an increase in a partner's share of liabilities is treated as a contribution of money by the partner to the partnership.  Code  752(a).  Such deemed contribution increases the partner's basis in its partnership interest under Section 722.  A decrease in a partner's share of liabilities and the assumption by the partnership of the partner's liabilities is treated as a distribution of money to the partner.  Code  752(a), (b).  Such deemed distribution decreases the partner's basis and thereafter results in gain to the partner under Sections 733 and 731, respectively.  If a partner experiences both an increase and a decrease in it its share of partnership liabilities as a result of a single transaction, only the net increase or decrease results in a deemed contribution or distribution, as applicable.  Treas. Reg.  1.752-1(f).  Acquired Fund and the Portfolio have represented that the Portfolio will not assume any liabilities of Acquired Fund in connection with the Drop-Down and none of the Acquired Fund Portfolio Securities will be transferred to the Portfolio subject to a liability.  Therefore, Acquired Fund could experience only an increase, and not a decrease, in its share of the Portfolio's liabilities as a result of the Drop-Down.
+
+
+
+ 10 A partner has a unitary basis in its entire interest in a partnership, even for interests acquired in exchange for multiple assets or acquired at different times.  See Rev. Rul. 84-53, 1984-1 CxxPDBxxPD 159.  Acquired Fund will have a split holding period with respect to the Portfolio Interest, allocated in proportion to the fair market value of the Acquired Fund Portfolio Securities.  See Treas. Reg.  1.1223-3.
+
+
+
+ - 5 -
+
+
+
+ ROPES & GRAY LLP
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ based on all the facts and circumstances, (i) a transfer of cash to the person transferring the property to the partnership would not have been made but for the transfer of property and (ii) in cases in which the transfers of property and cash are not made simultaneously, the subsequent transfer is not dependent on the entrepreneurial risks of partnership operations.11  The Funds have represented that Acquired Fund will receive no consideration other than the Portfolio Interest in connection with the Drop-Down and that Acquiring Fund will receive no consideration other than the Portfolio Interest and the Other Assets from Acquired Fund in connection with the Reorganization.12
+
+
+
+ As an open-end fund, the Portfolio must redeem its interests for cash or other consideration upon the demand of its interest holders.13  Under Treas. Reg.  1.707-3(c), if a transfer of property to the partnership and transfer of cash to the partner are made within two years of each other, the transfer is presumed to be a disguised sale unless the facts and circumstances clearly establish otherwise.14  The regulations set forth a list of factors relevant to a determination of whether a disguised sale has occurred that we believe do not point towards a disguised sale in these circumstances.15  Most notably, in this context a person transferring
+
+
+
+    11 In addition, in certain circumstances, an assumption of liabilities by a partnership in connection with the transfer of property by a partner to the partnership could be treated as a transfer of consideration to the partner, thus potentially giving rise to a disguised sale.  Treas. Reg.  1.707-5(a).  Acquired Fund and the Portfolio have represented that the Portfolio will not assume any liabilities of Acquired Fund in connection with the Drop-Down and none of the Acquired Fund Portfolio Securities will be transferred to the Portfolio subject to a liability.
+
+
+
+ 12 Immediately after the Drop-Down, Acquired Fund will transfer the Portfolio Interest to Acquiring Fund as part of the RIC Exchange.  As a result, any proceeds of a redemption of, or distribution with respect to the Portfolio Interest would be received by a person other than the transferor of the Acquired Fund Portfolio Securities - namely, Acquiring Fund as successor to Acquired Fund.  In the event the Reorganization were recharacterized such that the order of the Drop-Down and the RIC Exchange were reversed, the disguised sale rules would be more directly implicated.  See note 37 and accompanying text.
+
+
+
+ 13 See Sections 2(a)(32) and 22(e) of the 1940 Act.  The Portfolio generally does not expect to make distributions to its interest holders other than distributions in redemption of interests in the Portfolio.
+
+
+
+ 14 Treas. Reg.  1.707-3(c).  In addition, when the transfer of property and the transfer of cash occur within two years of each other, the transfers must be disclosed to the IRS.  Treas. Reg.  1.707-3(c)(2) and 1.707-8.
+
+
+
+ 15 Treas. Reg.  1.707-3(b)(2).  These factors include: (i) the timing and amount of a subsequent transfer are determinable with reasonable certainty at the time of an earlier transfer; (ii) the transferor has a legally enforceable right to the subsequent transfer; (iii) the partner's right to receive the money is secured; (iv) a person has made or is legally obligated to make contributions to the partnership in order to permit the partnership to make the transfer of money; (v) a person has loaned or has agreed to loan the partnership money to enable the partnership to make the transfer; (vi) the partnership has incurred or is obligated to incur debt to permit it to make the transfer of money; (vii) the partnership holds money or other liquid assets, beyond the reasonable needs of the business, that are expected to be available to make the transfer of money; (viii) partnership distributions, allocations or control of partnership operations is designed to effect an exchange of the burdens and benefits of ownership of property; (ix) the transfer of money by the partnership to the partner is disproportionately large in relationship to the partner's
+
+
+
+ - 6 -
+
+
+
+ ROPES & GRAY LLP
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ property to the Portfolio has the same rights of redemption as all holders of interests in the Portfolio, and prior to any redemption will share in the performance of the Portfolio in the same manner as all other interest holders.  Furthermore, Acquiring Fund, as successor to Acquired Fund, has represented that it has no plan or intention (i) to redeem all or a portion of the Portfolio Interest, or any other interests in the Portfolio held by it prior to the Reorganization, in connection with the Reorganization or (ii) to otherwise redeem any of its interests in the Portfolio after the Reorganization other than in the ordinary course of business in connection with meeting redemptions of its shares by its shareholders or in connection with maintaining its qualification as a RIC for federal income tax purposes under Section 851 of the Code.  However, there is no guidance regarding how to apply the facts-and-circumstances test to an open-end investment management company that transfers cash to partners in connection with the redemption of units within two years following a transfer of property to the partnership.16  Further, while the Funds' representations as to their current plans or intentions provide substantial support for the conclusion that the disguised sale rules should not apply to the Reorganization, actions taken subsequent to the closing of the Reorganization - including those that are not currently contemplated - could affect the possible application of the disguised sale rules.
+
+
+
+ Consequently, we are unable to express an opinion as to whether Section 707(a)(2)(B) applies to any transfer of property to an open-end investment company, including the transfers occurring as part of the Reorganization.  However, we note that in the case of the Reorganization, we are unaware of any unusual facts suggesting that the disguised sale rules should apply, and in the absence of any such facts think the better view is that transfers of cash from the Portfolio upon ordinary-course redemptions in accordance with the terms of sections 2(a)(32) and 22(e) of the 1940 Act following the Reorganization should not be disguised sales.
+
+
+
+ general and continuing interest in partnership profits; and (x) the partner has no obligation to return or repay the money to the partnership.  It is not clear whether ordinary course redemptions should properly be treated as disguised sales.   See exxPDgxxPD Rev. Rul. 99-58, 1999-2 CB 701 (ruling that redemptions of stock by a corporation pursuant to an ordinary course stock repurchase plan following a reorganization are not taken into account for purposes of meeting the continuity of proprietary interest requirement applicable to tax-free reorganizations).
+
+    16 In addition, it is not clear whether reallocations of partnership liabilities should be treated as deemed contributions to (in cases where a partner's share of liabilities increases due to the reallocation), and distributions from (in cases where a partner's share of liabilities decreases due to the reallocation) the partnership, and therefore as transfers of consideration that could give rise to a disguised sale.  In proposed regulations under Section 707, the Service has taken the view that such deemed contributions and distributions should not be treated as resulting in transfers of consideration for purposes of the rules governing the disguised sale of a partnership interest.  See, Section 707 Regarding Disguised Sales, Generally, 2004-2 CxxPDBxxPD 1009, 1010 (published in the Federal Register on November 26, 2004).  However, the proposed regulations were subsequently withdrawn.  See, Withdrawal of Notice of Proposed Rulemaking, 74 Fed. Reg. 3508, 3509 (January 21, 2009).
+
+
+
+ - 7 -
+
+
+
+ ROPES & GRAY LLP
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ Tax-Free Reorganization under Section 368(a)
+
+
+
+ To qualify as a reorganization under Section 368(a)(1)(C), Acquiring Fund must meet the continuity of business enterprise ("COBE") requirement set forth in Treas. Reg.  1.368-1(d), by either continuing the historic business of Acquired Fund (ixxPDexxPD, satisfying the "historic business test") or continuing to use a significant portion of Acquired Fund's historic assets (ixxPDexxPD, satisfying the "historic assets test").17  In general a corporation's historic business is the business it has conducted most recently prior to the reorganization, except that a corporation's historic business is not one the corporation enters into as part of a plan of reorganization.18  A corporation's historic assets are those used in its historic business.19  Whether the COBE requirement is met depends on all the facts and circumstances.20
+
+
+
+ Treas. Reg.  1.368-1(d) includes rules regarding the application of the COBE requirement when the acquiring corporation holds the historic assets of the target corporation and continues the historic business of the target corporation through interests in a partnership.  Specifically, the regulations provide that for purposes of the historic assets test, a partner of a partnership will be treated as owning a target's business assets that are used in the business of that partnership in accordance with its interest in the partnership.21  For purposes of the historic business test, the regulations provide that an acquiring corporation will be treated as conducting the business of a partnership, as long as it either has "active and substantial management functions" as a partner with respect to the partnership business or owns a "significant interest" in the partnership.22  The regulations indicate that 33 1/3 percent is a "significant interest" for this purpose.
+
+
+
+ In Revenue Ruling 87-76, 1987-2 CxxPDBxxPD 84, the Internal Revenue Service ("IRS") ruled that the COBE requirement was not met in the case of an acquisition of all the assets of an investment company that invested in corporate stocks and taxable bonds by an investment
+
+
+
+    17 Treas. Reg.  1.368-1(d).
+
+
+
+ 18 Treas. Reg.  1.368-1(d)(2)(iii).
+
+
+
+ 19 Treas. Reg.  1.368-1(d)(3)(ii).
+
+
+
+ 20 Treas. Reg.  1.368-1(d)(1).
+
+
+
+ 21 Treas. Reg.  1.368-1(d)(4)(iii)(A).
+
+
+
+ 22 Treas. Reg.  1.368-1(d)(4)(iii)(B).
+
+
+
+ 23 See Treas. Reg.  1.368-1(d)(5), Example 10.  The regulations further indicate that interests in a partnership received by the acquiring corporation in connection with the reorganization may be aggregated with the acquiring corporation's existing interests for purposes of determining whether the acquiring corporation owns a significant interest in the partnership.  See Treas. Reg.  1.368-1(d)(5), Example 11.
+
+
+
+ - 8 -
+
+
+
+ ROPES & GRAY LLP
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ company that invested in municipal bonds.  The IRS based its ruling on its conclusion that the business of investing in corporate stocks and bonds is not the same line of business as investing in municipal bonds, and that the acquired fund's municipal bonds purchased with the proceeds of the sale of its stocks and taxable bonds, as part of the plan of reorganization, did not constitute "historic assets" in its hands.  The IRS's conclusion in this ruling has always been questionable, and in subsequent private letter rulings the IRS relied upon historic business representations to conclude that the reorganizations therein satisfied the continuity of business enterprise requirement.24  Even if the IRS's 1987 revenue ruling were a correct statement of law, the facts of the Reorganization would be distinguishable from those in the ruling, as discussed below.
+
+
+
+ If one were to view the RIC Exchange in isolation from the Reorganization as a whole, the Portfolio Interest does not constitute an historic asset of Acquired Fund because the Drop-Down is occurring as part of the plan of reorganization (ixxPDexxPD, the Drop-Down would not occur absent the RIC Exchange).  Immediately after the Reorganization, Acquiring Fund will own less than a 33 1/3% interest - specifically, a 32.67% interest - in the Portfolio.25  As a result, the Reorganization does not fall squarely within the example in the Treasury Regulations as would automatically permit Acquiring Fund to be treated as conducting the business conducted by the Portfolio under the "significant interest" test.26  In addition, because DIMA manages the Portfolio rather than the Portfolio's partners, Acquiring Fund does not technically meet the "active management" test so that it automatically is treated as conducted the business conducted by the Portfolio.   Therefore, the general facts-and-circumstances test applies to determine whether Acquiring Fund will be treated as continuing the business, or to continue to use the historic assets, of Acquired Fund.27
+
+
+
+    24  We understand that the IRS has ruled privately that the following reorganizations met the historic business test: (i) a narrow-based, non-diversified growth fund into a broad-based, diversified growth fund; (ii) an industry-specific fund into a diversified dividend and income fund; and (iii) a state-specific tax-exempt bond fund into a national tax-exempt bond fund.  Priv. Ltr. Ruls. 200542006, 200543049, and 200546007 (Jul. 8, 2005).  Although taxpayers may not rely on private rulings (Code  6110(k)(3)), they are indicative of the IRS's views on the relevant transactions in question.
+
+
+
+ 25 As described at note 23 above, the entire interest in the Portfolio held by Acquiring Fund immediately after the Reorganization, not just the Portfolio Interest received from Acquired Fund, is taken into account for purposes of determining whether Acquiring Fund is treated as conducting the business of the Portfolio.
+
+
+
+ 26 As Acquired Fund and the Portfolio have extremely similar investment objectives and strategies, we believe they are in the same line of business.  See note 30 and accompanying text.  Therefore, if Acquiring Fund held a 33 1/3% interest in the Portfolio, the historic business test would be met.
+
+
+
+ 27 Although not entirely clear, most practitioners treat the 33 1/3% standard as a safe harbor, rather than a required minimum.  See Linda Z. Swartz, "Multiple-Step Acquisitions:  Dancing the Tax-Free Tango," Tax Notes Today, Doc. 2005-7003, at 619 (May 2, 2005).  We further note that Treas. Reg.  1.368-1(d)(4)(iii) does not require that an acquiring corporation own a significant interest in a partnership in order for the historic business test to be met; rather it sets forth the conditions under which an acquiring corporation will automatically be treated as conducting
+
+
+
+ - 9 -
+
+
+
+ ROPES & GRAY LLP
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ The facts described in the Representation Letters support the conclusion that Acquiring Fund should be treated as continuing the historic business of Acquired Fund regardless of the facts that, as the first step of the Reorganization, the Acquired Fund will contribute the Acquired Fund Portfolio Securities to the Portfolio and that Acquiring Fund conducts, and will continue to conduct its business through the Portfolio.  Acquired Fund and Acquiring Fund have nearly identical investment strategies - very generally, both seek to provide shareholders with investment results that correspond to the S&P 500 Index by employing a quantitative analysis and optimization strategy to obtain a high correlation to the S&P 500 Index.28  Indeed, as "S&P 500 Index funds," Acquired Fund and Acquiring Fund had, as of August 31, 2011, nearly identical portfolio exposures to equity securities.29  This demonstrates that Acquired Fund and Acquiring Fund are in the same line of business.30
+
+
+
+ The fact that Acquiring Fund achieves its exposure to the S&P 500 by investing in the Portfolio rather than directly in portfolio securities should not change this conclusion.  Because Acquiring Fund invests all its assets in the Portfolio, and the Portfolio and Acquiring Fund have identical investment objectives and the same investment adviser, Acquiring Fund's business should be defined only by reference to the activities of the Portfolio.31  For the same reason,
+
+
+
+ the business of a partnership.  Therefore, a drop-down of a target corporation's assets and business into a partnership of which the acquiring corporation owns less than 33 1/3% does not automatically result in a failure of the COBE requirement.  The Portfolio has represented that it will not dispose of any Acquired Fund Portfolio Securities as part of the Reorganization, and has no plan to dispose of such assets other than as part of a reconfiguration of the composition of the S&P 500 Index.  Nonetheless, our analysis and opinion do not rely on the historic assets test.
+
+
+
+ 28 Acquired Fund also employs a secondary strategy, the global tactical asset allocation strategy ("GTAA strategy"), under which Acquired Fund seeks to enhance returns through the use of derivatives on global bonds, equities and currencies.  DIMA advised Acquired Fund's Board of Trustees that the GTAA strategy may no longer be viable and thus proposed the Reorganization.
+
+
+
+ 29 For example, with respect to their UxxPDSxxPD equity exposures, Acquired Fund's and Acquiring Fund's top 20 holdings included 19 of the same stocks in highly similar proportions, and both exhibited an extremely high correlation to the S&P 500 Index based on volatility measurements.  In addition, the funds equity portfolios experienced a 99% overlap with respect to market capitalization, equity style and industry sectors.  Data obtained from Morningstar reports dated November 8, 2011 (the "Morningstar Report").
+
+
+
+ 30 The primary business of a RIC is to achieve a particular type of economic exposure for its shareholders.  Private letter rulings in which the IRS determined that two RICs were in the same line of business indicate that the type of investment exposure sought by a RIC is indicative of the RIC's business and further indicate the IRS's view that two RICs that have similar goals with respect to the type of investment exposure can be in the same line of business for purposes of the historic business test.  See note 24 above.
+
+
+
+ 31 As evidence that Acquiring Fund's business is treated as obtaining exposure to the S&P 500 Index and not merely as investing in a partnership, Acquiring Fund does not pay an additional management fee to DIMA, the Funds shared investment adviser, as it bears its share of the management fee paid by the Portfolio.  In addition, reports
+
+
+
+ - 10 -
+
+
+
+ ROPES & GRAY LLP
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ there is very little distinction between Acquired Fund's primary strategy and Acquiring Fund's strategy of tracking the S&P 500 Index32 - the value of both Funds to their shareholders depends principally on the portfolio securities held by Acquired Fund and the Portfolio, respectively.  Furthermore, the Funds all have the same investment adviser and both Acquired Fund, in respect of its S&P 500 Index strategy, and the Portfolio employ a passive strategy based on quantitative analysis to choose their portfolio securities.  Therefore, shareholders in Acquired Fund and Acquiring Fund obtain exposure to portfolio securities based principally on the same formulaic strategy employed by the same investment adviser.33  On the whole, Acquired Fund shareholders continue to have an interest in the Acquired Fund Portfolio Securities, the historic assets of Acquired Fund,34 and in a corporation that provides essentially the same exposure to the S&P 500 Index as Acquired Fund.
+
+  We therefore conclude that Acquiring Fund should be treated as continuing the historic business of Acquired Fund.35
+
+
+
+ showing the performance of Acquiring Fund and its portfolio securities often refer directly to the portfolio securities held by the Portfolio.  See, exxPDgxxPD, the Morningstar Report (reporting Acquiring Fund's top 20 holdings as direct interests in stocks of companies included in the S&P 500 Index); Acquiring Fund's Form N-Q, Quarterly Schedule of Portfolio Holdings, filed on November 28, 2011 (describing Acquiring Fund as owning a pro rata interest in the Portfolio's net assets and listing the Portfolio's portfolio investments).
+
+    32 As described in note 28, Acquired Fund also employs the GTAA strategy as a secondary investment strategy.
+
+
+
+ 33 The fact that Acquired Fund also employs the GTAA strategy as a secondary strategy does not affect the conclusion that Acquired Fund and Acquiring Fund are in the same line of business, as funds' investment objectives and strategies need not be identical in order to be in the same line of business.  As discussed above, the IRS has ruled privately that two RICs with similar investment objectives and strategies were in the same line of business.  See note 24 above.  In this case, even taking into account Acquired Fund's GTAA strategy, Acquired Fund and Acquiring Fund have very similar investment objectives and strategies
+
+
+
+  34 Although the Portfolio will at some point dispose of Acquired Fund Portfolio Securities, these dispositions will be in the normal course of operations (which include redemptions) and fully consistent with Acquiring Fund's and the Portfolio's investment objectives and strategies, including those objectives and strategies they share with Acquired Fund, and all proceeds generated by such dispositions not distributed in the ordinary course of business in connection with meeting redemptions of interests in the Portfolio will be reinvested in a manner fully consistent with such policies.
+
+
+
+  35 We note that under the common law doctrine of "remote continuity of interest," a reorganization could be disqualified under Section 368(a) if the acquiring corporation did not continue to hold the target corporation's assets directly but rather held such assets through a subsidiary.  See Groman v. Comm'r, 302 UxxPDSxxPD 82 (1937); Helvering v. Bashford, 302 UxxPDSxxPD 454 (1938).  Under current law, no separate "remote continuity" doctrine applies, and a transaction otherwise qualifying as a reorganization under Section 368(a) will not be disqualified as a result of a drop-down of assets if the COBE requirement is satisfied.  Treas. Reg.  1.368-2(k); TxxPDDxxPD 8760 (Jan. 23, 1998)("The IRS and Treasury Department believe the COBE requirements adequately address the issues raised in Groman and Bashford and their progeny.").
+
+
+
+ - 11 -
+
+
+
+ ROPES & GRAY LLP
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+ Opinion
+
+
+
+ Based on and subject to the foregoing and subject to the final paragraphs hereof, we are of the opinion that, for UxxPDSxxPD federal income tax purposes the following results should obtain:
+
+
+
+   (i)     the acquisition by Acquiring Fund of all the assets of Acquired Fund, comprising the Portfolio Interest and Other Assets of the Acquired Fund, solely in exchange for Acquiring Fund Shares and the assumption by Acquiring Fund of all of the liabilities of Acquired Fund, followed by the distribution by Acquired Fund to its shareholders of all the Acquiring Fund Shares it received in complete liquidation and termination of Acquired Fund, all pursuant to the Agreement, will constitute a reorganization within the meaning of Section 368(a) of the Code, and Acquired Fund and Acquiring Fund will each be a "party to a reorganization" within the meaning of Section 368(b) of the Code;
+
+
+
+   (ii)     under Section 354 of the Code, shareholders of Acquired Fund will not recognize gain or loss upon the receipt of Acquiring Fund Shares solely in exchange for Acquired Fund shares;
+
+
+
+   (iii)     under Section 358 of the Code, the aggregate tax basis of the Acquiring Fund Shares received by each shareholder of Acquired Fund in connection with the Reorganization will be the same as the aggregate tax basis of his or her Acquired Fund shares exchanged therefor;
+
+
+
+   (iv)     under Section 1223(1) of the Code, an Acquired Fund shareholder's holding period for his or her Acquiring Fund Shares will be determined by including the period for which he or she held the Acquired Fund shares exchanged therefor, provided that he or she held the Acquired Fund shares on the date of the Reorganization as capital assets;
+
+
+
+   (v)     no gain or loss will be recognized by Acquired Fund (i) upon the transfer of Acquired Fund Portfolio Securities to the Portfolio solely in exchange for the Portfolio Interest, (ii) upon the transfer of the Portfolio Interest and Other Assets to Acquiring Fund solely in exchange for Acquiring Fund Shares and the assumption of all of Acquired Fund's liabilities by Acquiring Fund, or (iii) upon the distribution of the Acquiring Fund Shares by Acquired Fund to its shareholders in complete liquidation;
+
+
+
+ - 12 -
+
+
+
+ ROPES & GRAY LLP
+
+
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+   (vi)     Acquired Fund's aggregate tax basis in the Portfolio Interest received from the Portfolio will equal Acquired Fund's aggregate tax basis in the Acquired Fund Portfolio Securities immediately prior to the transfer of the Acquired Fund Portfolio Securities plus Acquired Fund's share of the Portfolio's liabilities immediately after the receipt of the Portfolio Interest;
+
+
+
+   (vii)     Acquired Fund's holding period in the Portfolio Interest received from the Portfolio will include Acquired Fund's holding period in the Acquired Fund Portfolio Securities transferred to the Portfolio;
+
+
+
+   (viii)     no gain or loss will be recognized by the Portfolio upon the receipt of the Acquired Fund Portfolio Securities solely in exchange for the Portfolio Interest;
+
+
+
+   (ix)     the Portfolio's tax basis in the Acquired Fund Portfolio Securities received from Acquired Fund will be the same as Acquired Fund's tax basis in those Acquired Fund Portfolio Securities immediately prior to the transfer to the Portfolio;
+
+
+
+   (x)     the Portfolio's holding periods in the Acquired Fund Portfolio Securities received from Acquired Fund will include the periods during which the Acquired Fund Portfolio Securities were held by Acquired Fund;
+
+
+
+   (xi)     no gain or loss will be recognized by Acquiring Fund upon the receipt of the Portfolio Interest and Other Assets from Acquired Fund solely in exchange for Acquiring Fund Shares and the assumption by Acquiring Fund of all the liabilities of Acquired Fund;
+
+
+
+   (xii)     Acquiring Fund's tax basis in the Portfolio Interest and Other Assets, in each case received from Acquired Fund in the Reorganization, will be the same as Acquired Fund's tax basis in the Portfolio Interest and Other Assets immediately prior to the transfer of such assets to Acquiring Fund (which basis, with respect to the Portfolio Interest includes Acquired Fund's share of liabilities of the Portfolio that existed immediately prior to such transfer), and as a result, Acquiring Fund's aggregate tax basis in its entire interest in the Portfolio will increase by the amount of Acquiring Fund's tax basis in the Portfolio Interest received in the Reorganization, as previously described;
+
+
+
+   (xiii)     Acquiring Fund's holding periods in the Portfolio Interest and Other Assets received from Acquired Fund will include the periods during which such assets were held by Acquired Fund; and
+
+
+
+ - 13 -
+
+
+
+ ROPES & GRAY LLP
+
+  May 1, 2012
+
+
+
+ DWS S&P 500 Plus Fund
+
+ DWS S&P 500 Index Fund
+
+ DWS Equity 500 Index Portfolio
+
+
+
+   (xiv)     Acquiring Fund will succeed to and take into account the items of Acquired Fund described in Section 381(c) of the Code, subject to the conditions and limitations specified in Sections 381, 382, 383 and 384 of the Code and the regulations thereunder.
+
+
+
+ We express no view with respect to (1) the effect of the Reorganization on any transferred asset as to which any unrealized gain or loss is required to be recognized under federal income tax principles (i) at the end of a taxable year or upon the termination thereof, or (ii) upon the transfer of such asset regardless of whether such a transfer would otherwise be a non-taxable transaction and (2) any other federal tax issues (except those set forth above) and all state, local or foreign tax issues of any kind.
+
+
+
+ We note that the Reorganization could be recharacterized for federal income tax purposes such that the order of the Drop-Down and the RIC Exchange are reversed.36  We believe that, subject to the considerations described above, such a recharacterization should not cause any of Acquired Fund, Acquiring Fund or the Portfolio to recognize gain or loss in connection with the Reorganization.37
+
+
+
+ No ruling has been or will be obtained from the IRS as to the subject matter of this opinion and there can be no assurance that the IRS or a court of law will concur with the opinion set forth above.  Our opinion is based on the Code, Treasury Regulations, IRS rulings, judicial decisions, and other applicable authority, all as in effect on the date of this opinion.  The legal authorities on which this opinion is based may be changed at any time.  Any such changes may be retroactively applied and could modify the opinions expressed above.
+
+
+
+ Very truly yours,
+
+
+
+ /s/Ropes & Gray LLP
+
+
+
+ Ropes & Gray LLP
+
+
+
+    36 Under the "substance-over-form" doctrine, the form of a transaction may not be respected if it differs from the substance of the transaction.  Frank Lyon v. UxxPDSxxPD, 435 UxxPDSxxPD 561 (1978).  In this case, because the intent is for Acquired Fund to transfer all its assets to Acquiring Fund, one could treat Acquired Fund as transferring the Acquired Fund Portfolio Securities directly to Acquiring Fund and treat Acquiring Fund as contributing the Acquired Fund Portfolio Securities to the Portfolio.  We note that a taxpayer generally cannot disavow the taxpayer's chosen form of a transaction.  See Comm'r v. Danielson, 378 F.2d 771 (3d Cir. 1967).
+
+
+
+    37 We note that this recharacterization of the Reorganization would more directly implicate the disguised sale rules discussed above as compared to the form of the Reorganization.  See note 12 and accompanying text.
+
+
+
+ - 14 -
+
+
+
+
